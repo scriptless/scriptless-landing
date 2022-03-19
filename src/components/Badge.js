@@ -1,6 +1,6 @@
 function Badge(props) {
   return (
-    <span class={`inline-flex items-center px-3 py-0.5 rounded-full text-sm font-medium ${color2class(props.color)}`}>
+    <span class={`inline-flex items-center px-3 py-0.5 rounded-full ${props.large ? 'text-base' : 'text-sm'} font-medium ${color2class(props.color)}`}>
         {props.label}
     </span>
   )
