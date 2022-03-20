@@ -1,0 +1,19 @@
+{
+    "React": "blue",
+    "Vue": "green",
+    "Angular": "red",
+    "JavaScript": "yellow",
+    "TypeScript": "blue",
+    "Java": "orange",
+    "Python": "purple",
+    "PHP": "red",
+    "NodeJS": "green",
+    "Solidity": "blue",
+    "JSON": "gray",
+    "Linux": "red",
+    "MongoDB": "green",
+    "SQL": "blue",
+    "NoSQL": "blue",
+    "ExpressJS": "indigo",
+    "NestJS": "red"
+}

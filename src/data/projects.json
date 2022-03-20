@@ -1,0 +1,37 @@
+[
+    {
+        "name": "SimDir",
+        "description": "A search engine for flight simulator add-ons",
+        "technologies": ["Vue", "NestJS", "Python"],
+        "buttons": [
+            { "type": "LIVE", "url": "https://simdir.net" }
+        ]
+    },
+    {
+        "name": "Kennzeichenbörse",
+        "description": "A marketplace for german car license plates",
+        "technologies": ["Vue", "ExpressJS", "MongoDB"],
+        "buttons": [
+            { "type": "LIVE", "url": "https://kennzeichenbörse.com" }
+        ]
+    },
+    {
+        "name": "WE Solution Navigator",
+        "description": "A solution navigator for web engineering @ H-BRS",
+        "technologies": ["React", "JavaScript", "JSON"],
+        "buttons": [
+            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
+            { "type": "LIVE", "url": "https://scriptless.github.io/akuerf2s-we-homepage/1/1" }
+        ]
+    },
+    {
+        "name": "WE Solution Navigato222r",
+        "description": "A so222lution navigator for web engineering @ H-BRS",
+        "technologies": ["Rea22ct", "JavaScript", "JSON"],
+        "buttons": [
+            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
+            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
+            { "type": "LIVE", "url": "https://scriptless.github.io/akuerf2s-we-homepage/1/1" }
+        ]
+    }
+]
