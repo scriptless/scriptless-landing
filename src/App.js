@@ -29,7 +29,7 @@ function App() {
                 <div className="w-full container px-5 mx-auto">
                     <Header darkMode={darkMode}/>
                     <div className="my-6">
-                        <BrowserRouter>
+                        <BrowserRouter basename={process.env.PUBLIC_URL}>
                             <Routes>
                                 <Route exact path="/" element={<Home/>} />
                                 <Route path="/projects" element={<Projects/>} />
