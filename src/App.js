@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { HashRouter, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
 import TopBar from './components/TopBar';
 import Home from './pages/Home';
@@ -29,12 +29,12 @@ function App() {
                 <div className="w-full container px-5 mx-auto">
                     <Header darkMode={darkMode}/>
                     <div className="my-6">
-                        <BrowserRouter basename={process.env.PUBLIC_URL}>
+                        <HashRouter>
                             <Routes>
                                 <Route exact path="/" element={<Home/>} />
                                 <Route path="/projects" element={<Projects/>} />
                             </Routes>
-                        </BrowserRouter>
+                        </HashRouter>
                     </div>
                 </div>
             </div>
