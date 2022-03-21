@@ -5,7 +5,7 @@ function Header(props) {
     <div className="w-full flex flex-col justify-between lg:flex-row-reverse lg:items-center">
         <div className="text-center">
             <img 
-            className="flex-shrink-0 flex-grow-0 shadow-lg inline-block h-32 w-32 md:h-36 md:w-36 rounded-full overflow-hidden bg-gray-50 border-4 border-gray-200 dark:border-slate-700" 
+            className="hover:animate-spin flex-shrink-0 flex-grow-0 shadow-lg inline-block h-32 w-32 md:h-36 md:w-36 rounded-full overflow-hidden bg-gray-50 border-4 border-gray-200 dark:border-slate-700" 
             src={props.darkMode ? "./logo-white.png" : "./logo-dark.png"} alt=""/>
         </div>
         <div className="py-10 text-left">

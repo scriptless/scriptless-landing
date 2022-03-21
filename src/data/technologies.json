@@ -15,5 +15,7 @@
     "SQL": "blue",
     "NoSQL": "blue",
     "ExpressJS": "indigo",
-    "NestJS": "red"
+    "NestJS": "red",
+    "Spring": "orange",
+    "Bootstrap": "yellow"
 }

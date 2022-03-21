@@ -1,7 +1,5 @@
 import { useEffect, useState } from 'react';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Badge from './components/Badge';
-import Card from './components/Card';
 import Header from './components/Header';
 import TopBar from './components/TopBar';
 import Home from './pages/Home';

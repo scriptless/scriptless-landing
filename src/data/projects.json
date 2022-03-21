@@ -25,6 +25,67 @@
         ]
     },
     {
+        "name": "scriptless.io Personal Landing Page",
+        "description": "Personal website with all the informations about me",
+        "technologies": ["React", "JavaScript", "JSON"],
+        "buttons": [
+            { "type": "GITHUB", "url": "https://github.com/scriptless/scriptless-landing" },
+            { "type": "LIVE", "url": "https://scriptless.io" }
+        ]
+    },
+    {
+        "name": "Simple Shop DApp",
+        "description": "A simple shop built on the Ethereum blockchain",
+        "technologies": ["React", "Web3.js", "Solidity"],
+        "buttons": [
+            { "type": "GITHUB", "url": "https://github.com/scriptless/simple-shop-dapp" }
+        ]
+    },
+    {
+        "name": "Quicklinks to H-BRS Portals",
+        "description": "A simple page for easy forwarding to H-BRS portals",
+        "technologies": ["Vue", "Bootstrap", "JavaScript"],
+        "buttons": [
+            { "type": "LIVE", "url": "https://uni.scriptless.io" }
+        ]
+    },
+    {
+        "name": "Authservice v2",
+        "description": "A microservice for user authentication",
+        "technologies": ["NestJS", "TypeScript"],
+        "buttons": [
+            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" }
+        ]
+    },
+    {
+        "name": "Authservice v1",
+        "description": "A microservice for user authentication",
+        "technologies": ["ExpressJS", "TypeScript"],
+        "buttons": [
+            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" }
+        ]
+    },
+    {
+        "name": "WE Solution Navigato222r",
+        "description": "A so222lution navigator for web engineering @ H-BRS",
+        "technologies": ["Rea22ct", "JavaScript", "JSON"],
+        "buttons": [
+            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
+            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
+            { "type": "LIVE", "url": "https://scriptless.github.io/akuerf2s-we-homepage/1/1" }
+        ]
+    },
+    {
+        "name": "WE Solution Navigato222r",
+        "description": "A so222lution navigator for web engineering @ H-BRS",
+        "technologies": ["Rea22ct", "JavaScript", "JSON"],
+        "buttons": [
+            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
+            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
+            { "type": "LIVE", "url": "https://scriptless.github.io/akuerf2s-we-homepage/1/1" }
+        ]
+    },
+    {
         "name": "WE Solution Navigato222r",
         "description": "A so222lution navigator for web engineering @ H-BRS",
         "technologies": ["Rea22ct", "JavaScript", "JSON"],
