@@ -4,11 +4,11 @@
     "Angular": "red",
     "JavaScript": "yellow",
     "TypeScript": "blue",
-    "Java": "orange",
+    "Java": "amber",
     "Python": "purple",
     "PHP": "red",
     "NodeJS": "green",
-    "Solidity": "blue",
+    "Solidity": "cyan",
     "JSON": "gray",
     "Linux": "red",
     "MongoDB": "green",
@@ -17,5 +17,8 @@
     "ExpressJS": "indigo",
     "NestJS": "red",
     "Spring": "orange",
-    "Bootstrap": "yellow"
+    "Bootstrap": "yellow",
+    "NuxtJS": "green",
+    "TailwindCSS": "cyan",
+    "NextJS": "red"
 }

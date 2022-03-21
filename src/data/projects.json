@@ -2,7 +2,7 @@
     {
         "name": "SimDir",
         "description": "A search engine for flight simulator add-ons",
-        "technologies": ["Vue", "NestJS", "Python"],
+        "technologies": ["Vue", "NestJS", "Python", "TailwindCSS"],
         "buttons": [
             { "type": "LIVE", "url": "https://simdir.net" }
         ]
@@ -16,27 +16,27 @@
         ]
     },
     {
-        "name": "WE Solution Navigator",
-        "description": "A solution navigator for web engineering @ H-BRS",
-        "technologies": ["React", "JavaScript", "JSON"],
-        "buttons": [
-            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
-            { "type": "LIVE", "url": "https://scriptless.github.io/akuerf2s-we-homepage/1/1" }
-        ]
-    },
-    {
-        "name": "scriptless.io Personal Landing Page",
+        "name": "Personal Landing Page (scriptless.io)",
         "description": "Personal website with all the informations about me",
-        "technologies": ["React", "JavaScript", "JSON"],
+        "technologies": ["React", "TailwindCSS", "JSON"],
         "buttons": [
             { "type": "GITHUB", "url": "https://github.com/scriptless/scriptless-landing" },
             { "type": "LIVE", "url": "https://scriptless.io" }
         ]
     },
     {
+        "name": "WE Solution Navigator",
+        "description": "A solution navigator for web engineering @ H-BRS",
+        "technologies": ["React", "TailwindCSS", "JSON"],
+        "buttons": [
+            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
+            { "type": "LIVE", "url": "https://scriptless.github.io/akuerf2s-we-homepage/1/1" }
+        ]
+    },
+    {
         "name": "Simple Shop DApp",
         "description": "A simple shop built on the Ethereum blockchain",
-        "technologies": ["React", "Web3.js", "Solidity"],
+        "technologies": ["React", "Web3.js", "Solidity", "TailwindCSS"],
         "buttons": [
             { "type": "GITHUB", "url": "https://github.com/scriptless/simple-shop-dapp" }
         ]
@@ -66,33 +66,32 @@
         ]
     },
     {
-        "name": "WE Solution Navigato222r",
-        "description": "A so222lution navigator for web engineering @ H-BRS",
-        "technologies": ["Rea22ct", "JavaScript", "JSON"],
+        "name": "Spring Cloud Infrastructure Example",
+        "description": "A microservices infrastructure built on Spring Cloud",
+        "technologies": ["Java", "Spring", "JSON"],
         "buttons": [
-            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
-            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
-            { "type": "LIVE", "url": "https://scriptless.github.io/akuerf2s-we-homepage/1/1" }
+            { "type": "GITHUB", "url": "https://github.com/scriptless/spring-cloud-infrastructure" }
         ]
     },
     {
-        "name": "WE Solution Navigato222r",
-        "description": "A so222lution navigator for web engineering @ H-BRS",
-        "technologies": ["Rea22ct", "JavaScript", "JSON"],
+        "name": "Solstaker SPA",
+        "description": "A simple landing page for crypto staking",
+        "technologies": ["React", "TailwindCSS"],
         "buttons": [
-            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
-            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
-            { "type": "LIVE", "url": "https://scriptless.github.io/akuerf2s-we-homepage/1/1" }
+            { "type": "GITHUB", "url": "https://github.com/scriptless/solstaker-spa" },
+            { "type": "LIVE", "url": "https://scriptless.github.io/solstaker-spa" }
         ]
     },
     {
-        "name": "WE Solution Navigato222r",
-        "description": "A so222lution navigator for web engineering @ H-BRS",
-        "technologies": ["Rea22ct", "JavaScript", "JSON"],
-        "buttons": [
-            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
-            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" },
-            { "type": "LIVE", "url": "https://scriptless.github.io/akuerf2s-we-homepage/1/1" }
-        ]
+        "name": "Minecreo Landing & Userpanel",
+        "description": "A landing page and user panel for Minecreo",
+        "technologies": ["React", "NextJS", "TailwindCSS"],
+        "buttons": []
+    },
+    {
+        "name": "Calypso Payment Gateway",
+        "description": "A custom payment gateway for Calypso",
+        "technologies": ["PHP", "Laravel", "TailwindCSS"],
+        "buttons": []
     }
 ]

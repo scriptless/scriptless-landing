@@ -5,7 +5,7 @@ import { NavLink } from "react-router-dom";
 import Project from "./Project";
 import RoundButton from "../buttons/RoundButton";
 
-function ProjectsCard() {
+function CurrentProjectsCard() {
 
     const projects = projectsData.slice(0, 3).map((data) => 
         <div className="grid grid-flow-col gap-5">
@@ -18,7 +18,7 @@ function ProjectsCard() {
         </div>)
 
     return (
-        <Card className="md:col-span-7 dark:text-gray-200" title="Projects">
+        <Card className="md:col-span-7 dark:text-gray-200" title="Current Projects">
             <div className="flex flex-col gap-6 xl:gap-5">
                 {projects}
             </div>
@@ -34,5 +34,5 @@ function ProjectsCard() {
     )
 }
 
-export default ProjectsCard
+export default CurrentProjectsCard
 
