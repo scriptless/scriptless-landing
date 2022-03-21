@@ -2,6 +2,7 @@ import React from 'react'
 import technologiesData from '../../data/technologies.json';
 import Badge from '../Badge';
 import GithubButton from '../buttons/GithubButton';
+import GitlabButton from '../buttons/GitlabButton';
 import LiveViewButton from '../buttons/LiveViewButton';
 
 function Project(props) {
@@ -22,6 +23,7 @@ function Project(props) {
             {props.buttons.map((button) => {
                 switch(button.type) {
                     case 'GITHUB': return <GithubButton url={button.url}/>;
+                    case 'GITLAB': return <GitlabButton url={button.url}/>;
                     case 'LIVE': return <LiveViewButton url={button.url}/>;
                 }
             })}

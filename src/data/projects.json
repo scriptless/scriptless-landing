@@ -54,7 +54,7 @@
         "description": "A microservice for user authentication",
         "technologies": ["NestJS", "TypeScript"],
         "buttons": [
-            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" }
+            { "type": "GITLAB", "url": "https://gitlab.com/scriptless/authservice-v2" }
         ]
     },
     {
@@ -62,7 +62,7 @@
         "description": "A microservice for user authentication",
         "technologies": ["ExpressJS", "TypeScript"],
         "buttons": [
-            { "type": "GITHUB", "url": "https://github.com/scriptless/akuerf2s-we-homepage" }
+            { "type": "GITLAB", "url": "https://gitlab.com/scriptless/authservice" }
         ]
     },
     {
