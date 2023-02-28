@@ -13,7 +13,7 @@ function Header(props) {
             <p className="text-blue-600 dark:text-blue-400 text-3xl font-bold">Scriptless</p>
             <div className="max-w-3xl">
                 <p className="text-gray-500 dark:text-gray-100 my-2 leading-2 font-thin">
-                    My name is Alex and I am a self taught full-stack developer based in <a class="underline hover:no-underline" href="">Düsseldorf</a>/<a class="underline hover:no-underline" href="">Bonn</a>, Germany. On this website you can find my personal projects and more information about me.
+                    My name is Alex and I am a self taught full-stack developer based in <a class="underline hover:no-underline" href="">Berlin</a>/<a class="underline hover:no-underline" href="">Düsseldorf</a>, Germany. On this website you can find my personal projects and more information about me.
                 </p>
             </div>
         </div>
