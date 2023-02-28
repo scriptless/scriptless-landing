@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import { HashRouter, Route, Routes } from 'react-router-dom';
 import Header from './components/Header';
+import Footer from './components/Footer';
 import TopBar from './components/TopBar';
 import Home from './pages/Home';
 import Projects from './pages/Projects';
@@ -36,6 +37,7 @@ function App() {
                             </Routes>
                         </HashRouter>
                     </div>
+                    <Footer/>
                 </div>
             </div>
         </div>
