@@ -71,7 +71,32 @@ function Home() {
                         </li>
                     </ul>
                 </div>
-                <p className="text-right text-blue-600 dark:text-blue-400 font-light">2016</p>
+                <p className="text-right text-blue-600 dark:text-blue-400 font-light">2022</p>
+                <div className="col-span-7">
+                    <p className="dark:text-gray-200">AVM, Berlin</p>
+                    <p className="text-gray-400 text-sm">Internship</p>
+                    <ul role="list" class="pl-1.5 my-2 divide-y dark:divide-slate-700 divide-dotted">
+                        <li class="pl-3 pr-4 py-2 flex items-center justify-between text-sm">
+                            <p className="text-gray-500 dark:text-gray-300 text-sm">Development of GUIs of FRITZ!OS for FRITZ!Box and other products using JavaScript, LUA</p>
+                        </li>
+                        <li class="pl-3 pr-4 py-2 flex items-center justify-between text-sm">
+                            <p className="text-gray-500 dark:text-gray-300 text-sm">Refactoring of existing FRITZ!OS GUI pages</p>
+                        </li>
+                    </ul>
+                </div>
+                <p className="text-right text-blue-600 dark:text-blue-400 font-light">2022</p>
+                <div className="col-span-7">
+                    <p className="dark:text-gray-200">Henkel dx Hub, Berlin</p>
+                    <p className="text-gray-400 text-sm">Internship</p>
+                    <ul role="list" class="pl-1.5 my-2 divide-y dark:divide-slate-700 divide-dotted">
+                        <li class="pl-3 pr-4 py-2 flex items-center justify-between text-sm">
+                            <p className="text-gray-500 dark:text-gray-300 text-sm">Development of a PoC for a more efficient and fast website base using Angular, Strapi, SSG</p>
+                        </li>
+                        <li class="pl-3 pr-4 py-2 flex items-center justify-between text-sm">
+                            <p className="text-gray-500 dark:text-gray-300 text-sm">Development of Angular components for Henkel E-Commerce Shops</p>
+                        </li>
+                    </ul>
+                </div>
             </div>
         </Card>
     </div>
