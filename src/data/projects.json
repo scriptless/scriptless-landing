@@ -1,10 +1,10 @@
 [
     {
-        "name": "SimDir",
-        "description": "A search engine for flight simulator add-ons",
-        "technologies": ["Vue", "NestJS", "Python", "TailwindCSS"],
+        "name": "Mietbot",
+        "description": "Mietbot – a Telegram bot searching 24/7 for rental listings",
+        "technologies": ["Python", "NextJS", "TailwindCSS", "Docker"],
         "buttons": [
-            { "type": "LIVE", "url": "https://simdir.net" }
+            { "type": "LIVE", "url": "https://mietbot.de" }
         ]
     },
     {
